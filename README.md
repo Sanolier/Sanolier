@@ -1,3 +1,8 @@
+- 👋 Hi, I’m @Sanolier;
+- 👀 I’m interested in teaching and programming;
+- 🌱 I’m currently learning React Native and a little bit of TypeScript;
+- 💞️ I’m looking to collaborate on applications;
+- 📫 Try contacting me by my discord. Sanolier#0664;
 <div align="center">
   <a href="https://github.com/Sanolier">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Sanolier&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
