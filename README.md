@@ -3,11 +3,13 @@
 - 🌱 I’m currently learning React Native and a little bit of TypeScript;
 - 💞️ I’m looking to collaborate on applications;
 - 📫 Try contacting me by my discord. Sanolier#0664;
-<div>
+<div style="display: inline_block">
   <a href="https://github.com/Sanolier">
+  <div>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Sanolier&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <br/>
   <img height="160em" width="600em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanolier&layout=compact&langs_count=7&theme=onedark"/>
+    </div>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Sano-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
